@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>VMware 16安装教程</title>
+      <link href="/2022/09/02/VMware/"/>
+      <url>/2022/09/02/VMware/</url>
+      
+        <content type="html"><![CDATA[<h2 id="超详细安装虚拟机VMware-Workstation-Pro16教程"><a href="#超详细安装虚拟机VMware-Workstation-Pro16教程" class="headerlink" title="超详细安装虚拟机VMware Workstation Pro16教程"></a>超详细安装虚拟机VMware Workstation Pro16教程</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">在学习的时候，我们有时候不得不用到虚拟机，比如安装一些不太让人放心的软件，或者短暂的双系统需求，因此我们需要用到虚拟机，那么我们怎么安装虚拟机呢</span><br></pre></td></tr></table></figure><h3 id="1、下载VMware16安装包"><a href="#1、下载VMware16安装包" class="headerlink" title="1、下载VMware16安装包"></a>1、下载VMware16安装包</h3><p>在搜索栏输入VMware官方地址：<a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html">https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html</a>  </p><p>注意：安装包及软件许可密钥也可通过文章末网盘链接获取</p><p>往下滑，找到以下页面</p><p><img src="https://s1.ax1x.com/2022/09/02/vIHdFs.png" alt="image"></p><p>选择匹配自己系统的VMware,点击“立即下载”，等待下载完成即可</p><h3 id="2、运行安装程序，点击下一步"><a href="#2、运行安装程序，点击下一步" class="headerlink" title="2、运行安装程序，点击下一步"></a>2、运行安装程序，点击<strong>下一步</strong></h3><p>①单机鼠标右键以管理员身份运行下载的扩展名为 .exe的文件</p><p>②安装包打开可能需要一会会儿，不要着急。打开之后点击下一步即可。</p><p><img src="https://pic2.zhimg.com/80/v2-4daf54045c1adc4b6688014e26045d51_720w.jpg" alt="img"></p><p>③首先勾选“我接受许可协议条款”，然后单击下一步</p><p><img src="https://pic2.zhimg.com/80/v2-4f7e14279c1ff1d228865ce0876bcfcd_720w.jpg" alt="img"></p><p>④选择软件安装路径，默认安装在C驱动器中，单击[更改]修改安装路径，注意：安装路径文件夹名称不能包含汉字！小编安装在D磁盘VMware16文件夹下，然后单击下一步</p><p><img src="https://pic4.zhimg.com/80/v2-6cc08da77e05bfbbd40cdc7771a04603_720w.jpg" alt="img"></p><p><img src="https://pic1.zhimg.com/80/v2-a6b7a2ba0403096e7b3ed4c05896ec54_720w.jpg" alt="img"></p><p>⑤首先取消“启动时检查产品更新”和“加入VMware …”，然后单击下一步</p><p><img src="https://pic1.zhimg.com/80/v2-019fc0a7475ab7ea4765f74e1867f154_720w.jpg" alt="img"></p><p>⑥直接单机下一步</p><p><img src="https://pic4.zhimg.com/80/v2-50ad80921b28a0bd34d7d07ae0893eb7_720w.jpg" alt="img"></p><p>⑦单机安装</p><p><img src="https://pic4.zhimg.com/80/v2-338f0be59a386d61b789f6a9010ec53f_720w.jpg" alt="img"></p><p>⑧在安装中，请耐心等待</p><p><img src="https://pic1.zhimg.com/80/v2-612e62fa28f63e301bcb21751ce5ca98_720w.jpg" alt="img"></p><p>⑨安装完成，单击许可证</p><p><img src="https://pic1.zhimg.com/80/v2-32cb8ecb2f24dc46554c55d648e5a79c_720w.jpg" alt="img"></p><p>⑩输入许可证密钥后 单机输入</p><p><img src="https://www.helloimg.com/images/2022/09/02/Z7mJF9.png" alt="image"></p><p>打开密钥文件，然后三选一输入即可</p><p><img src="https://www.helloimg.com/images/2022/09/02/Z7mCKb.png" alt="image"></p><p>注意：在点击完成后如果弹窗需要重启系统，放心重启便可</p><p><img src="https://www.helloimg.com/images/2022/09/02/Z7mmnX.png" alt="image"></p><p>重启完成后双击图标，运行软件 </p><p><img src="https://www.helloimg.com/images/2022/09/02/Z7mnqR.png" alt="img"></p><h3 id="3、打开虚拟机，至此整个安装流程结束"><a href="#3、打开虚拟机，至此整个安装流程结束" class="headerlink" title="3、打开虚拟机，至此整个安装流程结束"></a>3、打开虚拟机，至此整个安装流程结束</h3><p><img src="https://www.helloimg.com/images/2022/09/02/Z7mszg.png" alt="image"></p><h3 id="4、本人提供的VMware-16的安装包及许可密钥，需要者自行通过百度网盘链接获取"><a href="#4、本人提供的VMware-16的安装包及许可密钥，需要者自行通过百度网盘链接获取" class="headerlink" title="4、本人提供的VMware 16的安装包及许可密钥，需要者自行通过百度网盘链接获取"></a>4、本人提供的VMware 16的安装包及许可密钥，需要者自行通过百度网盘链接获取</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">链接: https://pan.baidu.com/s/1V1H2SsgwmSR_4WS7uVYPaw?pwd=ck2g 提取码: ck2g </span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件安装 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> VMware 16 安装 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Typora 1.3.8 破解方法</title>
       <link href="/2022/08/31/Typora-1.3.8-%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/"/>
       <url>/2022/08/31/Typora-1.3.8-%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/</url>
@@ -13,7 +38,7 @@
       
       <categories>
           
-          <category> 破解合集 </category>
+          <category> 软件安装 </category>
           
       </categories>
       
